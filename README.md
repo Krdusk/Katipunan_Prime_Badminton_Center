@@ -80,7 +80,7 @@ Katipunan Prime Badminton Center's Badminton Court Scheduling and Reservation Sy
 
 ---
 
-## System Technologies
+## System Technologies:
 
 The system uses the following technologies:  
 - MySQL database for storing user, court, and reservation data.  
@@ -90,7 +90,7 @@ The system uses the following technologies:
 
 ---
 
-## System Features
+## System Features:
 
 The system provides the following features:  
 - Online badminton court reservations.  
@@ -103,7 +103,7 @@ The system provides the following features:
 
 ---
 
-## User Types and Access Control
+## User Types and Access Control:
 
 The system has two main classifications of users:
 
@@ -123,7 +123,7 @@ User roles are determined using the `role` field stored in the database.
 
 ---
 
-## Authentication Flow
+## Authentication Flow:
 
 The system verifies user roles using the following process:  
 1. User logs in using their email address and password.  
@@ -137,7 +137,7 @@ Customers cannot access admin pages even if they know the URL. Admin pages are f
 
 ---
 
-## Customer Panel
+## Customer Panel:
 
 **Registration Page**  
 - Customers provide their full name, email address, and password.  
@@ -167,7 +167,7 @@ Customers cannot access admin pages even if they know the URL. Admin pages are f
 
 ---
 
-## Admin Panel
+## Admin Panel:
 
 **Admin Dashboard Summary**  
 - Total number of courts.  
@@ -195,7 +195,7 @@ Customers cannot access admin pages even if they know the URL. Admin pages are f
 
 ---
 
-## Database Design
+## Database Design:
 
 **Database Name:** `katipunan_prime_db`  
 
@@ -228,7 +228,7 @@ Customers cannot access admin pages even if they know the URL. Admin pages are f
 
 ---
 
-## Database Relationships
+## Database Relationships:
 
 - One user can have many bookings.  
 - One court can have many bookings.  
@@ -238,7 +238,7 @@ These relationships ensure data integrity, scalability, and efficient querying.
 
 ---
 
-## Double Booking Prevention
+## Double Booking Prevention:
 
 The system prevents double booking by:  
 - Checking court availability for selected time slots.  
@@ -249,8 +249,14 @@ This guarantees accurate and conflict-free bookings.
 
 ---
 
-## Setup and Installation
+## Setup and Installation:
 
 1. Clone the repository:  
 ```bash
-git clone <repository_url>
+git clone <SETUP.md>
+
+## Project Files:
+
+All project materials, documentation, and media files are available in the Google Drive folder:
+
+🔗 https://drive.google.com/drive/folders/1Xmlb_KAfOpZAlQC8_ktDsLDP2O8uB7Vb
