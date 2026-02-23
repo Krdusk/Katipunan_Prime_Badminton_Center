@@ -78,6 +78,9 @@ Katipunan Prime Badminton Center's Badminton Court Scheduling and Reservation Sy
 
 </div>
 
+</div>
+</div>
+
 ---
 
 ## System Technologies:
@@ -254,8 +257,19 @@ This guarantees accurate and conflict-free bookings.
 1. Clone the repository:  
 ```bash
 git clone <repository-url>
+For detailed setup instructions, refer to setup.md
 
 Project Files:
 All project materials, documentation, and media files are available in the Google Drive folder:
 
-🔗 https://drive.google.com/drive/folders/1Xmlb_KAfOpZAlQC8_ktDsLDP2O8uB7Vb
+🔗 Click here to access project files
+
+📁 Direct Links to Files:
+File	Link
+📄 JolliTech_Documentation.pdf	Download
+🖼️ JolliTech_Members Contributions.jpg	View
+📊 JolliTech_PPT.pdf	Download
+🎥 JolliTech_Video.mp4	Watch
+📊 KPBC_ERD.png	View
+📄 Project Documentation (Soft Copy).pdf	Download
+© 2026 Katipunan Prime Badminton Center. All Rights Reserved.
