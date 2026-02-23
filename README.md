@@ -253,10 +253,9 @@ This guarantees accurate and conflict-free bookings.
 
 1. Clone the repository:  
 ```bash
-git clone <SETUP.md>
+git clone <repository-url>
 
-## Project Files:
-
+Project Files:
 All project materials, documentation, and media files are available in the Google Drive folder:
 
 🔗 https://drive.google.com/drive/folders/1Xmlb_KAfOpZAlQC8_ktDsLDP2O8uB7Vb
