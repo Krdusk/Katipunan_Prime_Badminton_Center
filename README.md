@@ -256,6 +256,8 @@ This guarantees accurate and conflict-free bookings.
 git clone <repository-url>
 ```
 
+--- 
+
 ## Project Files:
 
 All project materials, documentation, and media files are available in the Google Drive folder:
